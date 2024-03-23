@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="project_delivery_methody" table="x_1133497_projec_0_projects" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>project_delivery_methody</element>
+            <name>x_1133497_projec_0_projects</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-03 15:27:30</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>project_delivery_methody</sys_name>
+            <sys_package display_value="ProjectNow" source="x_1133497_projec_0">45393297932002105e0b32edfaba10d4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ProjectNow">45393297932002105e0b32edfaba10d4</sys_scope>
+            <sys_update_name>sys_choice_x_1133497_projec_0_projects_project_delivery_methody</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-03 15:27:30</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>project_delivery_methody</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>JOC</label>
+            <language>en</language>
+            <name>x_1133497_projec_0_projects</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-03 15:27:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-03 15:27:30</sys_updated_on>
+            <value>JOC</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>project_delivery_methody</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Design-Bid-Build</label>
+            <language>en</language>
+            <name>x_1133497_projec_0_projects</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-03 15:27:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-03 15:27:30</sys_updated_on>
+            <value>DBB</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>project_delivery_methody</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Design-Build</label>
+            <language>en</language>
+            <name>x_1133497_projec_0_projects</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-03 15:27:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-03 15:27:30</sys_updated_on>
+            <value>DB</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>project_delivery_methody</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CMAR</label>
+            <language>en</language>
+            <name>x_1133497_projec_0_projects</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-03 15:27:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-03 15:27:30</sys_updated_on>
+            <value>CMAR</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>project_delivery_methody</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PPP</label>
+            <language>en</language>
+            <name>x_1133497_projec_0_projects</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-03 15:27:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-03 15:27:30</sys_updated_on>
+            <value>PPP</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>project_delivery_methody</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sole Source Purchase Order</label>
+            <language>en</language>
+            <name>x_1133497_projec_0_projects</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-03 15:27:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-03 15:27:30</sys_updated_on>
+            <value>SSPO</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

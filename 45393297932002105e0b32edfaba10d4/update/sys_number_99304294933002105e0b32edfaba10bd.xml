@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_1133497_projec_0_statuses">x_1133497_projec_0_statuses</category>
+        <maximum_digits>3</maximum_digits>
+        <number>100</number>
+        <prefix>STN</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-03 15:13:24</sys_created_on>
+        <sys_id>99304294933002105e0b32edfaba10bd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>STN</sys_name>
+        <sys_package display_value="ProjectNow" source="x_1133497_projec_0">45393297932002105e0b32edfaba10d4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ProjectNow">45393297932002105e0b32edfaba10d4</sys_scope>
+        <sys_update_name>sys_number_99304294933002105e0b32edfaba10bd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-03 15:13:24</sys_updated_on>
+    </sys_number>
+</record_update>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="2621c6d4933002105e0b32edfaba100c" label="projects" max_length="40" name="x_1133497_projec_0_projects" type="collection">
+        <element label="address_other" max_length="40" name="address_other" type="string"/>
+        <element label="AE Firm" max_length="40" name="ae_firm" type="string"/>
+        <element label="approver" max_length="32" name="approver" reference="sys_user" type="reference"/>
+        <element label="CEQA Required?" max_length="40" name="ceqa_required" type="boolean"/>
+        <element label="CM firm" max_length="40" name="cm" type="string"/>
+        <element label="contractor" max_length="40" name="contractor" type="string"/>
+        <element label="design_estimate" max_length="40" name="design_estimate" type="integer"/>
+        <element label="final project cost" max_length="40" name="final_project_cost" type="integer"/>
+        <element label="funding expires on" max_length="40" name="funding_expires_on" type="due_date"/>
+        <element choice="1" label="Fund Source" max_length="40" name="fund_source" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Asset Forfetuire" sequence="0" value="133"/>
+                <element inactive_on_update="false" label="Inmate Welfare" sequence="1" value="144"/>
+                <element inactive_on_update="false" label="Strategic Financial Plan" sequence="2" value="036"/>
+                <element inactive_on_update="false" label="Sheriff Coroner Construction and Fac Development" sequence="3" value="14Q"/>
+                <element inactive_on_update="false" label="Sheriffs Substation Fee Program" sequence="4" value="141"/>
+                <element inactive_on_update="false" label="Sheriff Narcotics Program" sequence="5" value="132"/>
+                <element inactive_on_update="false" label="Jail Commissary" sequence="6" value="143"/>
+                <element inactive_on_update="false" label="800 MHZ" sequence="7" value="15L"/>
+                <element inactive_on_update="false" label="Facilities Operations" sequence="8" value="9484"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element choice="1" label="project delivery methody" max_length="40" name="project_delivery_methody" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="JOC" sequence="0" value="JOC"/>
+                <element inactive_on_update="false" label="Design-Bid-Build" sequence="1" value="DBB"/>
+                <element inactive_on_update="false" label="Design-Build" sequence="2" value="DB"/>
+                <element inactive_on_update="false" label="CMAR" sequence="3" value="CMAR"/>
+                <element inactive_on_update="false" label="PPP" sequence="4" value="PPP"/>
+                <element inactive_on_update="false" label="Sole Source Purchase Order" sequence="5" value="SSPO"/>
+            </choice>
+        </element>
+        <element label="project_manager" max_length="32" name="project_manager" reference="sys_user" type="reference"/>
+        <element label="ranking" max_length="40" name="ranking" type="integer"/>
+        <element label="requester" max_length="32" name="requester" reference="sys_user" type="reference"/>
+        <element label="requisition numbers" max_length="40" name="requisition_numbers" type="string"/>
+        <element label="site_contact" max_length="40" name="site_contact" type="string"/>
+        <element label="special inspector" max_length="40" name="special_inspector" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="work_description" mandatory="true" max_length="40" name="work_description" type="wiki_text"/>
+        <index name="index">
+            <element name="approver"/>
+        </index>
+        <index name="index2">
+            <element name="project_manager"/>
+        </index>
+        <index name="index3">
+            <element name="requester"/>
+        </index>
+        <index name="index4">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

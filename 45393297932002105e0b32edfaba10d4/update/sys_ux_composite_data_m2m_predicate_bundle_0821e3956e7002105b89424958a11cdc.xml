@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_predicate_bundle">
+    <sys_ux_composite_data_m2m_predicate_bundle action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Landing - My Requests Dataset">c821e39534700210d7d8498d3b1795df</dataset>
+        <order/>
+        <predicate_bundle display_value="My request - task bundle">8c21e395ef700210eb09113c858cfddc</predicate_bundle>
+        <sys_class_name>sys_ux_composite_data_m2m_predicate_bundle</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-03-07 00:50:48</sys_created_on>
+        <sys_id>0821e3956e7002105b89424958a11cdc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="ProjectNow" source="x_1133497_projec_0">45393297932002105e0b32edfaba10d4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ProjectNow">45393297932002105e0b32edfaba10d4</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_predicate_bundle_0821e3956e7002105b89424958a11cdc</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-03-07 00:50:48</sys_updated_on>
+    </sys_ux_composite_data_m2m_predicate_bundle>
+</record_update>

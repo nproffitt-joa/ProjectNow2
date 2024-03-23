@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="fund_source" table="x_1133497_projec_0_projects" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>fund_source</element>
+            <name>x_1133497_projec_0_projects</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-03 15:32:43</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>fund_source</sys_name>
+            <sys_package display_value="ProjectNow" source="x_1133497_projec_0">45393297932002105e0b32edfaba10d4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ProjectNow">45393297932002105e0b32edfaba10d4</sys_scope>
+            <sys_update_name>sys_choice_x_1133497_projec_0_projects_fund_source</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-03 15:32:43</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fund_source</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Asset Forfetuire</label>
+            <language>en</language>
+            <name>x_1133497_projec_0_projects</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-03 15:32:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-03 15:32:43</sys_updated_on>
+            <value>133</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fund_source</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Inmate Welfare</label>
+            <language>en</language>
+            <name>x_1133497_projec_0_projects</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-03 15:32:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-03 15:32:43</sys_updated_on>
+            <value>144</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fund_source</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Strategic Financial Plan</label>
+            <language>en</language>
+            <name>x_1133497_projec_0_projects</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-03 15:32:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-03 15:32:43</sys_updated_on>
+            <value>036</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fund_source</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sheriff Coroner Construction and Fac Development</label>
+            <language>en</language>
+            <name>x_1133497_projec_0_projects</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-03 15:32:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-03 15:32:43</sys_updated_on>
+            <value>14Q</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fund_source</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sheriffs Substation Fee Program</label>
+            <language>en</language>
+            <name>x_1133497_projec_0_projects</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-03 15:32:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-03 15:32:43</sys_updated_on>
+            <value>141</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fund_source</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sheriff Narcotics Program</label>
+            <language>en</language>
+            <name>x_1133497_projec_0_projects</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-03 15:32:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-03 15:32:43</sys_updated_on>
+            <value>132</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fund_source</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Jail Commissary</label>
+            <language>en</language>
+            <name>x_1133497_projec_0_projects</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-03 15:32:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-03 15:32:43</sys_updated_on>
+            <value>143</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fund_source</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>800 MHZ</label>
+            <language>en</language>
+            <name>x_1133497_projec_0_projects</name>
+            <sequence>7</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-03 15:32:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-03 15:32:43</sys_updated_on>
+            <value>15L</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>fund_source</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Facilities Operations</label>
+            <language>en</language>
+            <name>x_1133497_projec_0_projects</name>
+            <sequence>8</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-03 15:32:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-03 15:32:43</sys_updated_on>
+            <value>9484</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
