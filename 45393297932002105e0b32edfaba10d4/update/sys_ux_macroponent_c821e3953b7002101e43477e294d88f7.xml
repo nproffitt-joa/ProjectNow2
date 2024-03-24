@@ -3026,6 +3026,57 @@
         ],
         "inputValues": {},
         "readEvaluationMode": "EXPLICIT"
+    },
+    {
+        "definition": {
+            "id": "b997a84053021010cbc2ddeeff7b1228",
+            "type": "COMPOSITE"
+        },
+        "dependencies": {},
+        "elementId": "look_up_multiple_records_1",
+        "elementLabel": "Look up multiple records 1",
+        "eventMappings": [
+            
+        ],
+        "inputValues": {
+            "encodedQuery": {
+                "type": "JSON_LITERAL",
+                "value": "project_managerDYNAMIC90d1921e5f510100a9ad2572f2b477fe"
+            },
+            "limit": {
+                "type": "JSON_LITERAL",
+                "value": "1000"
+            },
+            "offset": {
+                "type": "JSON_LITERAL",
+                "value": null
+            },
+            "orderBy": {
+                "type": "JSON_LITERAL",
+                "value": "sys_updated_on"
+            },
+            "queryCategory": {
+                "type": "JSON_LITERAL",
+                "value": ""
+            },
+            "returnFieldMetadata": {
+                "type": "JSON_LITERAL",
+                "value": false
+            },
+            "returnFields": {
+                "type": "JSON_LITERAL",
+                "value": "number,sys_updated_on,address_other,requester,work_description"
+            },
+            "sortType": {
+                "type": "JSON_LITERAL",
+                "value": "asc"
+            },
+            "table": {
+                "type": "JSON_LITERAL",
+                "value": "x_1133497_projec_0_projects"
+            }
+        },
+        "readEvaluationMode": "EAGER"
     }
 ]</data>
         <description/>
@@ -3549,14 +3600,14 @@
         <sys_created_by>system</sys_created_by>
         <sys_created_on>2024-03-07 00:50:47</sys_created_on>
         <sys_id>c821e3953b7002101e43477e294d88f7</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>Landing Page</sys_name>
         <sys_package display_value="ProjectNow" source="x_1133497_projec_0">45393297932002105e0b32edfaba10d4</sys_package>
         <sys_policy/>
         <sys_scope display_value="ProjectNow">45393297932002105e0b32edfaba10d4</sys_scope>
         <sys_update_name>sys_ux_macroponent_c821e3953b7002101e43477e294d88f7</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-03-07 20:49:25</sys_updated_on>
+        <sys_updated_on>2024-03-24 22:12:21</sys_updated_on>
     </sys_ux_macroponent>
     <sys_translated_text action="delete_multiple" query="documentkey=c821e3953b7002101e43477e294d88f7"/>
 </record_update>

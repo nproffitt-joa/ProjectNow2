@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>chrome_footer</name>
+        <page display_value="">ba7eef83934102105e0b32edfaba1028</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-03-24 22:34:16</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0b7eef837a4102108833a68b5fc59ea5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_footer</sys_name>
+        <sys_package display_value="ProjectNow" source="x_1133497_projec_0">45393297932002105e0b32edfaba10d4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ProjectNow">45393297932002105e0b32edfaba10d4</sys_scope>
+        <sys_update_name>sys_ux_page_property_0b7eef837a4102108833a68b5fc59ea5</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-03-24 22:34:16</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1133497_projec_0.ba7eef83934102105e0b32edfaba1028.root.chrome_footer</unique_name>
+        <value>{&#13;
+    "public_page":{&#13;
+       "enable_footer_topbar":false,&#13;
+       "footer_topbar_options":{&#13;
+          "enable_logo":false,&#13;
+          "enable_address": false,&#13;
+          "enable_linkset_group":false,&#13;
+          "max_linkset_count":0&#13;
+       },&#13;
+       "enable_footer_bar":true,&#13;
+       "footer_bar_options":{&#13;
+          "enable_links":true,&#13;
+          "max_links_count":5,&#13;
+          "enable_social_links":false,&#13;
+          "max_social_links_count":7,&#13;
+          "social_links":[],&#13;
+          "enable_copyright_text":true,&#13;
+          "copyright_text":"© 2020 Company Inc. All rights reserved."&#13;
+       }&#13;
+    }&#13;
+ }</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ProjectNow">45393297932002105e0b32edfaba10d4</application>
+        <file_path/>
+        <instance_id>fa0e3ebc1b9e7d98168f4089bd4bcb6e</instance_id>
+        <instance_name>dev200677</instance_name>
+        <name>sys_ux_page_property_0b7eef837a4102108833a68b5fc59ea5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>chrome_footer</name><page display_value="">ba7eef83934102105e0b32edfaba1028</page><required_translations>[]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2024-03-24 22:34:16</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>0b7eef837a4102108833a68b5fc59ea5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>chrome_footer</sys_name><sys_package display_value="ProjectNow" source="x_1133497_projec_0">45393297932002105e0b32edfaba10d4</sys_package><sys_policy/><sys_scope display_value="ProjectNow">45393297932002105e0b32edfaba10d4</sys_scope><sys_update_name>sys_ux_page_property_0b7eef837a4102108833a68b5fc59ea5</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2024-03-24 22:34:16</sys_updated_on><type>json</type><unique_name>x_1133497_projec_0.ba7eef83934102105e0b32edfaba1028.root.chrome_footer</unique_name><value>{&#13;
+    "public_page":{&#13;
+       "enable_footer_topbar":false,&#13;
+       "footer_topbar_options":{&#13;
+          "enable_logo":false,&#13;
+          "enable_address": false,&#13;
+          "enable_linkset_group":false,&#13;
+          "max_linkset_count":0&#13;
+       },&#13;
+       "enable_footer_bar":true,&#13;
+       "footer_bar_options":{&#13;
+          "enable_links":true,&#13;
+          "max_links_count":5,&#13;
+          "enable_social_links":false,&#13;
+          "max_social_links_count":7,&#13;
+          "social_links":[],&#13;
+          "enable_copyright_text":true,&#13;
+          "copyright_text":"© 2020 Company Inc. All rights reserved."&#13;
+       }&#13;
+    }&#13;
+ }</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>1972361044</payload_hash>
+        <record_name>chrome_footer</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-24 22:37:51</sys_created_on>
+        <sys_id>285f6707934102105e0b32edfaba1092</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e729cf1590000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-24 22:37:51</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>e45f67074a41021078849fa653f08792</update_guid>
+        <update_guid_history>e45f67074a41021078849fa653f08792:1972361044</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-03-24 22:37:51</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>0b3ef9a6fbe04a59822fe0539d45df09</sys_id>
+        <sys_metadata>0b7eef837a4102108833a68b5fc59ea5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_footer</sys_name>
+        <sys_package display_value="ProjectNow" source="x_1133497_projec_0">45393297932002105e0b32edfaba10d4</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ProjectNow">45393297932002105e0b32edfaba10d4</sys_scope>
+        <sys_scope_delete display_value="">41d6592cba354d08ad3e2424ab76f729</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_0b7eef837a4102108833a68b5fc59ea5</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_0b7eef837a4102108833a68b5fc59ea5">285f6707934102105e0b32edfaba1092</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-03-24 22:37:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

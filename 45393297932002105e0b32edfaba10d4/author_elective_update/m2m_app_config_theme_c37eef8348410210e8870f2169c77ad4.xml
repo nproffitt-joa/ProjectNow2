@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="DELETE">
+        <applicability display_value="Public">0b7eef83a04102104a29dd441a085fd2</applicability>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-03-24 22:34:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c37eef8348410210e8870f2169c77ad4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="ProjectNow" source="x_1133497_projec_0">45393297932002105e0b32edfaba10d4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ProjectNow">45393297932002105e0b32edfaba10d4</sys_scope>
+        <sys_update_name>m2m_app_config_theme_c37eef8348410210e8870f2169c77ad4</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-03-24 22:34:14</sys_updated_on>
+        <theme display_value="Light Theme">cb7eef83684102106b5cfc8c280f61d2</theme>
+        <ux_app_configuration display_value="">be7eef83934102105e0b32edfaba1028</ux_app_configuration>
+    </m2m_app_config_theme>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ProjectNow">45393297932002105e0b32edfaba10d4</application>
+        <file_path/>
+        <instance_id>fa0e3ebc1b9e7d98168f4089bd4bcb6e</instance_id>
+        <instance_name>dev200677</instance_name>
+        <name>m2m_app_config_theme_c37eef8348410210e8870f2169c77ad4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme"><m2m_app_config_theme action="INSERT_OR_UPDATE"><applicability display_value="Public">0b7eef83a04102104a29dd441a085fd2</applicability><order>0</order><sys_class_name>m2m_app_config_theme</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2024-03-24 22:34:14</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>c37eef8348410210e8870f2169c77ad4</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="ProjectNow" source="x_1133497_projec_0">45393297932002105e0b32edfaba10d4</sys_package><sys_policy/><sys_scope display_value="ProjectNow">45393297932002105e0b32edfaba10d4</sys_scope><sys_update_name>m2m_app_config_theme_c37eef8348410210e8870f2169c77ad4</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2024-03-24 22:34:14</sys_updated_on><theme display_value="Light Theme">cb7eef83684102106b5cfc8c280f61d2</theme><ux_app_configuration display_value="">be7eef83934102105e0b32edfaba1028</ux_app_configuration></m2m_app_config_theme></record_update>]]></payload>
+        <payload_hash>1907355558</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-24 22:37:52</sys_created_on>
+        <sys_id>fc5fa707934102105e0b32edfaba102d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e729cf54a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-24 22:37:52</sys_updated_on>
+        <type>UX App Theme</type>
+        <update_guid>bc5fa7074a410210a013d5a3d1eb212d</update_guid>
+        <update_guid_history>bc5fa7074a410210a013d5a3d1eb212d:1907355558</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">385fa707934102105e0b32edfaba102e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-03-24 22:37:52</sys_created_on>
+        <sys_db_object display_value="" name="m2m_app_config_theme">m2m_app_config_theme</sys_db_object>
+        <sys_id>16629ddbec4140008234f4a346981000</sys_id>
+        <sys_metadata>c37eef8348410210e8870f2169c77ad4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="ProjectNow" source="x_1133497_projec_0">45393297932002105e0b32edfaba10d4</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ProjectNow">45393297932002105e0b32edfaba10d4</sys_scope>
+        <sys_scope_delete display_value="">41d6592cba354d08ad3e2424ab76f729</sys_scope_delete>
+        <sys_update_name>m2m_app_config_theme_c37eef8348410210e8870f2169c77ad4</sys_update_name>
+        <sys_update_version display_value="m2m_app_config_theme_c37eef8348410210e8870f2169c77ad4">fc5fa707934102105e0b32edfaba102d</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-03-24 22:37:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

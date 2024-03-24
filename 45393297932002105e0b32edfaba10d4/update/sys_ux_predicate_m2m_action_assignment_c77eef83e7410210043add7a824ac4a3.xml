@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_predicate_m2m_action_assignment">
+    <sys_ux_predicate_m2m_action_assignment action="INSERT_OR_UPDATE">
+        <declarative_action_assignment display_value="reject">477eef83f24102105ed6812c9199cad2</declarative_action_assignment>
+        <predicate display_value="My Tasks">4f7eef83d94102104cbd53aa7d16dcac</predicate>
+        <sys_class_name>sys_ux_predicate_m2m_action_assignment</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-03-24 22:34:15</sys_created_on>
+        <sys_id>c77eef83e7410210043add7a824ac4a3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="ProjectNow" source="x_1133497_projec_0">45393297932002105e0b32edfaba10d4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ProjectNow">45393297932002105e0b32edfaba10d4</sys_scope>
+        <sys_update_name>sys_ux_predicate_m2m_action_assignment_c77eef83e7410210043add7a824ac4a3</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-03-24 22:34:15</sys_updated_on>
+    </sys_ux_predicate_m2m_action_assignment>
+</record_update>

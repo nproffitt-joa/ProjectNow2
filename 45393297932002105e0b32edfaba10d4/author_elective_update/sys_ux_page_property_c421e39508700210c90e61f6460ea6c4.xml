@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>enable_login_modal</name>
+        <page display_value="">b711e395937002105e0b32edfaba1086</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-03-07 00:50:47</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>c421e39508700210c90e61f6460ea6c4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>enable_login_modal</sys_name>
+        <sys_package display_value="ProjectNow" source="x_1133497_projec_0">45393297932002105e0b32edfaba10d4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ProjectNow">45393297932002105e0b32edfaba10d4</sys_scope>
+        <sys_update_name>sys_ux_page_property_c421e39508700210c90e61f6460ea6c4</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-03-07 00:50:47</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1133497_projec_0.b711e395937002105e0b32edfaba1086.root.enable_login_modal</unique_name>
+        <value>{&#13;
+	"enabled":false&#13;
+}</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ProjectNow">45393297932002105e0b32edfaba10d4</application>
+        <file_path/>
+        <instance_id>fa0e3ebc1b9e7d98168f4089bd4bcb6e</instance_id>
+        <instance_name>dev200677</instance_name>
+        <name>sys_ux_page_property_c421e39508700210c90e61f6460ea6c4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>enable_login_modal</name><page display_value="">b711e395937002105e0b32edfaba1086</page><required_translations/><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2024-03-07 00:50:47</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>c421e39508700210c90e61f6460ea6c4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>enable_login_modal</sys_name><sys_package display_value="ProjectNow" source="x_1133497_projec_0">45393297932002105e0b32edfaba10d4</sys_package><sys_policy/><sys_scope display_value="ProjectNow">45393297932002105e0b32edfaba10d4</sys_scope><sys_update_name>sys_ux_page_property_c421e39508700210c90e61f6460ea6c4</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2024-03-07 00:50:47</sys_updated_on><type>json</type><unique_name>x_1133497_projec_0.b711e395937002105e0b32edfaba1086.root.enable_login_modal</unique_name><value>{&#13;
+	"enabled":false&#13;
+}</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>-2100104883</payload_hash>
+        <record_name>enable_login_modal</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-24 22:32:54</sys_created_on>
+        <sys_id>cc3e2b83934102105e0b32edfaba108e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e729868500000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-24 22:32:54</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>8c3e2b833b410210fe4d2e0e2319cc8e</update_guid>
+        <update_guid_history>8c3e2b833b410210fe4d2e0e2319cc8e:-2100104883</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-03-24 22:32:54</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>4370b1e333ca4df0a0fc888aa7fab040</sys_id>
+        <sys_metadata>c421e39508700210c90e61f6460ea6c4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>enable_login_modal</sys_name>
+        <sys_package display_value="ProjectNow" source="x_1133497_projec_0">45393297932002105e0b32edfaba10d4</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ProjectNow">45393297932002105e0b32edfaba10d4</sys_scope>
+        <sys_scope_delete display_value="">41d6592cba354d08ad3e2424ab76f729</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_c421e39508700210c90e61f6460ea6c4</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_c421e39508700210c90e61f6460ea6c4">cc3e2b83934102105e0b32edfaba108e</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-03-24 22:32:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

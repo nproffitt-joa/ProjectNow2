@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>chrome_header</name>
+        <page display_value="">b711e395937002105e0b32edfaba1086</page>
+        <required_translations>[]</required_translations>
+        <route display_value="Landing Page">4c21e395617002107050234b153794ef</route>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-03-07 00:50:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>cc21e395c3700210112b58099bcff3c2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="ProjectNow" source="x_1133497_projec_0">45393297932002105e0b32edfaba10d4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ProjectNow">45393297932002105e0b32edfaba10d4</sys_scope>
+        <sys_update_name>sys_ux_page_property_cc21e395c3700210112b58099bcff3c2</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-03-07 00:50:48</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1133497_projec_0.b711e395937002105e0b32edfaba1086.route.chrome_header.4c21e395617002107050234b153794ef</unique_name>
+        <value>{&#13;
+    "privatePage":{&#13;
+       "searchEnabled": false&#13;
+    }&#13;
+}</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ProjectNow">45393297932002105e0b32edfaba10d4</application>
+        <file_path/>
+        <instance_id>fa0e3ebc1b9e7d98168f4089bd4bcb6e</instance_id>
+        <instance_name>dev200677</instance_name>
+        <name>sys_ux_page_property_cc21e395c3700210112b58099bcff3c2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>chrome_header</name><page display_value="">b711e395937002105e0b32edfaba1086</page><required_translations>[]</required_translations><route display_value="Landing Page">4c21e395617002107050234b153794ef</route><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2024-03-07 00:50:48</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>cc21e395c3700210112b58099bcff3c2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>chrome_header</sys_name><sys_package display_value="ProjectNow" source="x_1133497_projec_0">45393297932002105e0b32edfaba10d4</sys_package><sys_policy/><sys_scope display_value="ProjectNow">45393297932002105e0b32edfaba10d4</sys_scope><sys_update_name>sys_ux_page_property_cc21e395c3700210112b58099bcff3c2</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2024-03-07 00:50:48</sys_updated_on><type>json</type><unique_name>x_1133497_projec_0.b711e395937002105e0b32edfaba1086.route.chrome_header.4c21e395617002107050234b153794ef</unique_name><value>{&#13;
+    "privatePage":{&#13;
+       "searchEnabled": false&#13;
+    }&#13;
+}</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>196944158</payload_hash>
+        <record_name>chrome_header</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-24 22:32:54</sys_created_on>
+        <sys_id>c03e2b83934102105e0b32edfaba109a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e729868c00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-24 22:32:54</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>803e2b83bc410210c726706c47bb4c9a</update_guid>
+        <update_guid_history>803e2b83bc410210c726706c47bb4c9a:196944158</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-03-24 22:32:54</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>4532b46e1bc042d4913078adfc9c9210</sys_id>
+        <sys_metadata>cc21e395c3700210112b58099bcff3c2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="ProjectNow" source="x_1133497_projec_0">45393297932002105e0b32edfaba10d4</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ProjectNow">45393297932002105e0b32edfaba10d4</sys_scope>
+        <sys_scope_delete display_value="">41d6592cba354d08ad3e2424ab76f729</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_cc21e395c3700210112b58099bcff3c2</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_cc21e395c3700210112b58099bcff3c2">c03e2b83934102105e0b32edfaba109a</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-03-24 22:32:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

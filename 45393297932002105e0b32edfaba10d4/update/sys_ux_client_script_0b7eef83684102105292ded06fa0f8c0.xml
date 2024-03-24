@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <controller_preset/>
+        <includes/>
+        <macroponent display_value="Search Page">477eef8302410210a10235c26d9736c0</macroponent>
+        <name>handle_pagination</name>
+        <preset/>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[function handler({ api, event, helpers }) {
+	const props = api.context.props;
+	const fields = {
+		searchContextConfigId: props.searchContextConfigId,
+		searchTerm: props.searchTerm
+	};
+	const token = event.payload.paginationToken;
+	const params = {
+		searchFilters: props.searchFilters,
+		facetFilters: props.facetFilters,
+		disableSpellCheck: props.disableSpellCheck,
+		paginationToken: token
+	};
+	global.window.scrollTo(0, 0);
+	helpers.navigate.to('search', fields, params);
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-03-24 22:34:17</sys_created_on>
+        <sys_id>0b7eef83684102105292ded06fa0f8c0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>handle_pagination</sys_name>
+        <sys_package display_value="ProjectNow" source="x_1133497_projec_0">45393297932002105e0b32edfaba10d4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ProjectNow">45393297932002105e0b32edfaba10d4</sys_scope>
+        <sys_update_name>sys_ux_client_script_0b7eef83684102105292ded06fa0f8c0</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-03-24 22:34:17</sys_updated_on>
+        <target/>
+        <type/>
+    </sys_ux_client_script>
+</record_update>
