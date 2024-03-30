@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="903d8581935102105e0b32edfaba10e6" label="divisions" max_length="40" name="x_1133497_projec_0_divisions" text_index="true" type="collection">
+        <element choice="1" label="command" max_length="40" name="command" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Administrative Services" sequence="0" value="admin"/>
+                <element inactive_on_update="false" label="Custody  Operations" sequence="1" value="custody"/>
+                <element inactive_on_update="false" label="Executive" sequence="2" value="executive"/>
+                <element inactive_on_update="false" label="Investigations &amp; Special Operations" sequence="3" value="investigations"/>
+                <element inactive_on_update="false" label="Corrections and Court Operations" sequence="4" value="court"/>
+                <element inactive_on_update="false" label="Patrol Operations" sequence="5" value="patrol"/>
+                <element inactive_on_update="false" label="Professional Services" sequence="6" value="proserv"/>
+            </choice>
+        </element>
+        <element label="name" max_length="40" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>

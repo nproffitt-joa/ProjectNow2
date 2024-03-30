@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="ProjectNow App Config">c9a75dcd81510210c03b99ac131da719</app_config>
+        <description/>
+        <extension_point/>
+        <fields>uuid</fields>
+        <icon/>
+        <name>KPI Details</name>
+        <optional_parameters>scoreDate,breakdowns,domain,aggregate,startDate,endDate</optional_parameters>
+        <order>0</order>
+        <parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>ac_kpi_details</route_type>
+        <screen_type display_value="KPI Details">f0a75dcdc3510210dc0cc7ca32750c0c</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-30 16:43:00</sys_created_on>
+        <sys_id>b4a75dcdec5102103e86b328854c3f0c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>KPI Details</sys_name>
+        <sys_package display_value="ProjectNow" source="x_1133497_projec_0">45393297932002105e0b32edfaba10d4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ProjectNow">45393297932002105e0b32edfaba10d4</sys_scope>
+        <sys_update_name>sys_ux_app_route_b4a75dcdec5102103e86b328854c3f0c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-30 16:43:00</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=b4a75dcdec5102103e86b328854c3f0c"/>
+</record_update>

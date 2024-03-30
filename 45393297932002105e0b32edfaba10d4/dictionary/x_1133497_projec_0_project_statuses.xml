@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="f23a098d931102105e0b32edfaba1066" label="project_statuses" max_length="40" name="x_1133497_projec_0_project_statuses" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="project_id" max_length="32" name="project_id" reference="x_1133497_projec_0_projects" type="reference"/>
+        <element display="true" label="remark" max_length="240" name="remark" type="string"/>
+        <element label="status_id" max_length="32" name="status_id" reference="x_1133497_projec_0_statuses" type="reference"/>
+        <element label="status on" max_length="255" name="status_on" type="glide_date"/>
+        <index name="index">
+            <element name="project_id"/>
+        </index>
+        <index name="index2">
+            <element name="status_id"/>
+        </index>
+    </element>
+</database>

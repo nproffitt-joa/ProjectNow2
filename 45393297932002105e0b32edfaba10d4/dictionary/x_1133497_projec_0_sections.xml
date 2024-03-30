@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="315fc145935102105e0b32edfaba103f" label="sections" max_length="40" name="x_1133497_projec_0_sections" text_index="true" type="collection">
+        <element label="division_id" max_length="32" name="division_id" reference="x_1133497_projec_0_divisions" type="reference"/>
+        <element label="name" max_length="40" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <index name="index">
+            <element name="division_id"/>
+        </index>
+    </element>
+</database>

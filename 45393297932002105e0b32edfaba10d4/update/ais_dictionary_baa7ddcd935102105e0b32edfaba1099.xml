@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_dictionary">
+    <ais_dictionary action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <auto_refresh>24</auto_refresh>
+        <blocked_field/>
+        <case_sensitive>false</case_sensitive>
+        <data_source>x_1133497_projec_0_divisions,x_1133497_projec_0_statuses,x_1133497_projec_0_project_statuses,x_1133497_projec_0_projects,x_1133497_projec_0_sections,x_1133497_projec_0_facilities,x_1133497_projec_0_programs</data_source>
+        <derived>true</derived>
+        <field/>
+        <label>projectnow Search Profile Default Spell Check Dictionary</label>
+        <last_derived/>
+        <locale>en</locale>
+        <name>x_1133497_projec_0_projectnow_search_profile_default_spell_check_dictionary</name>
+        <publish_id/>
+        <punctuation_sensitive>false</punctuation_sensitive>
+        <state>DRAFT</state>
+        <sys_class_name>ais_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-30 16:43:07</sys_created_on>
+        <sys_id>baa7ddcd935102105e0b32edfaba1099</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>x_1133497_projec_0_projectnow_search_profile_default_spell_check_dictionary</sys_name>
+        <sys_package display_value="ProjectNow" source="x_1133497_projec_0">45393297932002105e0b32edfaba10d4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ProjectNow">45393297932002105e0b32edfaba10d4</sys_scope>
+        <sys_update_name>ais_dictionary_baa7ddcd935102105e0b32edfaba1099</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-30 16:43:09</sys_updated_on>
+        <type>SPELLCHECK</type>
+    </ais_dictionary>
+</record_update>

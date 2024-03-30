@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Tabs Configuration</description>
+        <name>chrome_tab</name>
+        <page display_value="ProjectNow">0da75dcda551021096b699e250091318</page>
+        <required_translations>[ {
+  "message" : "New divisions",
+  "comment" : ""
+}, {
+  "message" : "New facilities",
+  "comment" : ""
+}, {
+  "message" : "New programs",
+  "comment" : ""
+}, {
+  "message" : "New project_statuses",
+  "comment" : ""
+}, {
+  "message" : "New projects",
+  "comment" : ""
+}, {
+  "message" : "New sections",
+  "comment" : ""
+}, {
+  "message" : "New statuses",
+  "comment" : ""
+} ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-30 16:43:01</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>f8a75dcd8a510210d5dd64a49641d00a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>chrome_tab</sys_name>
+        <sys_package display_value="ProjectNow" source="x_1133497_projec_0">45393297932002105e0b32edfaba10d4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ProjectNow">45393297932002105e0b32edfaba10d4</sys_scope>
+        <sys_update_name>sys_ux_page_property_f8a75dcd8a510210d5dd64a49641d00a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-30 16:43:07</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1133497_projec_0.0da75dcda551021096b699e250091318.root.chrome_tab</unique_name>
+        <value>{"contextual":["record"],"newTabMenu":[{"label":{"translatable":true,"message":"New projects"},"routeInfo":{"route":"record","fields":{"table":"x_1133497_projec_0_projects","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1133497_projec_0_projects","canCreate":true}}},{"label":{"translatable":true,"message":"New facilities"},"routeInfo":{"route":"record","fields":{"table":"x_1133497_projec_0_facilities","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1133497_projec_0_facilities","canCreate":true}}},{"label":{"translatable":true,"message":"New programs"},"routeInfo":{"route":"record","fields":{"table":"x_1133497_projec_0_programs","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1133497_projec_0_programs","canCreate":true}}},{"label":{"translatable":true,"message":"New project_statuses"},"routeInfo":{"route":"record","fields":{"table":"x_1133497_projec_0_project_statuses","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1133497_projec_0_project_statuses","canCreate":true}}},{"label":{"translatable":true,"message":"New sections"},"routeInfo":{"route":"record","fields":{"table":"x_1133497_projec_0_sections","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1133497_projec_0_sections","canCreate":true}}},{"label":{"translatable":true,"message":"New statuses"},"routeInfo":{"route":"record","fields":{"table":"x_1133497_projec_0_statuses","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1133497_projec_0_statuses","canCreate":true}}},{"label":{"translatable":true,"message":"New divisions"},"routeInfo":{"route":"record","fields":{"table":"x_1133497_projec_0_divisions","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1133497_projec_0_divisions","canCreate":true}}}],"maxMainTabLimit":10,"maxTotalSubTabLimit":30}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=f8a75dcd8a510210d5dd64a49641d00a"/>
+</record_update>

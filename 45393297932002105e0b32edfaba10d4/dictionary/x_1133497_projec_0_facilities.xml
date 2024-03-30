@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="1f4b0101935102105e0b32edfaba102e" label="facilities" max_length="40" name="x_1133497_projec_0_facilities" text_index="true" type="collection">
+        <element label="address" max_length="80" name="address" type="string"/>
+        <element label="Name" max_length="100" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>

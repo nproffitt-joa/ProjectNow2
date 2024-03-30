@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="de415dc5935102105e0b32edfaba100e" label="programs" max_length="40" name="x_1133497_projec_0_programs" text_index="true" type="collection">
+        <element label="name" max_length="40" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_source">
+    <sys_search_source action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="x_1133497_projec_0_projects">active=true</condition>
+        <group/>
+        <name>ProjectNow - x_1133497_projec_0_projects</name>
+        <roles/>
+        <source_table>x_1133497_projec_0_projects</source_table>
+        <sys_class_name>sys_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-30 16:43:06</sys_created_on>
+        <sys_id>dea79dcd935102105e0b32edfaba10ee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ProjectNow - x_1133497_projec_0_projects</sys_name>
+        <sys_package display_value="ProjectNow" source="x_1133497_projec_0">45393297932002105e0b32edfaba10d4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ProjectNow">45393297932002105e0b32edfaba10d4</sys_scope>
+        <sys_update_name>sys_search_source_dea79dcd935102105e0b32edfaba10ee</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-30 16:43:06</sys_updated_on>
+    </sys_search_source>
+</record_update>

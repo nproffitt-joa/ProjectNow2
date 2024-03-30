@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_search_context_config_search_source">
+    <m2m_search_context_config_search_source action="INSERT_OR_UPDATE">
+        <order>500</order>
+        <search_context_config display_value="ProjectNow - Workspace Search">38a75dcdf65102100a9aa0a6236d2a10</search_context_config>
+        <source display_value="ProjectNow - x_1133497_projec_0_sections">66a7ddcd935102105e0b32edfaba1055</source>
+        <sys_class_name>m2m_search_context_config_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-30 16:43:07</sys_created_on>
+        <sys_id>a2a7ddcd935102105e0b32edfaba1069</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="ProjectNow" source="x_1133497_projec_0">45393297932002105e0b32edfaba10d4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ProjectNow">45393297932002105e0b32edfaba10d4</sys_scope>
+        <sys_update_name>m2m_search_context_config_search_source_a2a7ddcd935102105e0b32edfaba1069</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-30 16:43:07</sys_updated_on>
+    </m2m_search_context_config_search_source>
+</record_update>
