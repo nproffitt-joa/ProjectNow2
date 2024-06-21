@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="ba4ee2cd935902105e0b32edfaba10ad" extends="sys_import_set_row" label="import facilities csv" max_length="40" name="x_1133497_projec_0_ihub_import_7bfdea8d935902105e0b32edfaba10fb" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=name" label="name" max_length="40" name="u_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=address" label="address" max_length="40" name="u_address" type="string"/>
+    </element>
+</database>

@@ -40,12 +40,13 @@
         <primary>false</primary>
         <read_only>false</read_only>
         <read_roles/>
-        <reference display_value="" name="sys_user">sys_user</reference>
+        <reference display_value="" name="x_1133497_projec_0_users">x_1133497_projec_0_users</reference>
         <reference_cascade_rule/>
         <reference_floats>false</reference_floats>
         <reference_key/>
-        <reference_qual/>
-        <reference_qual_condition/>
+        <reference_qual>is_project_manager=true</reference_qual>
+        <reference_qual_condition table="x_1133497_projec_0_users">is_project_manager=true<item endquery="false" field="is_project_manager" goto="false" newquery="false" operator="=" or="false" value="true"/>
+        </reference_qual_condition>
         <reference_type/>
         <spell_check>false</spell_check>
         <staged>false</staged>
@@ -58,7 +59,7 @@
         <sys_scope display_value="ProjectNow">45393297932002105e0b32edfaba10d4</sys_scope>
         <sys_update_name>sys_dictionary_x_1133497_projec_0_projects_project_manager</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-03-30 17:55:24</sys_updated_on>
+        <sys_updated_on>2024-03-30 22:41:44</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

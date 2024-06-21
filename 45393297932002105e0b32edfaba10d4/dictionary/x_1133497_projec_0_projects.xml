@@ -1,50 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="2621c6d4933002105e0b32edfaba100c" label="projects" max_length="40" name="x_1133497_projec_0_projects" text_index="true" type="collection">
-        <element label="location details" max_length="40" name="address_other" type="string"/>
-        <element label="AE Firm" max_length="40" name="ae_firm" type="string"/>
-        <element label="approver" max_length="32" name="approver" reference="sys_user" type="reference"/>
-        <element label="CEQA Required?" max_length="40" name="ceqa_required" type="boolean"/>
-        <element label="CM firm" max_length="40" name="cm" type="string"/>
-        <element label="contractor" max_length="40" name="contractor" type="string"/>
-        <element label="design_estimate" max_length="40" name="design_estimate" type="integer"/>
+        <element label="site_contact" max_length="40" name="site_contact" type="string"/>
         <element label="facility" max_length="32" name="facility_id" reference="x_1133497_projec_0_facilities" type="reference"/>
         <element label="final project cost" max_length="40" name="final_project_cost" type="integer"/>
-        <element label="funding expires on" max_length="40" name="funding_expires_on" type="glide_date"/>
+        <element label="requisition numbers" max_length="40" name="requisition_numbers" type="string"/>
         <element choice="1" label="Fund Source" max_length="40" name="fund_source" type="choice">
             <choice>
+                <element inactive_on_update="false" label="Strategic Financial Plan" sequence="2" value="036"/>
+                <element inactive_on_update="false" label="Jail Commissary" sequence="6" value="143"/>
+                <element inactive_on_update="false" label="Sheriff Coroner Construction and Fac Development" sequence="3" value="14Q"/>
+                <element inactive_on_update="false" label="800 MHZ" sequence="7" value="15L"/>
+                <element inactive_on_update="false" label="Sheriffs Substation Fee Program" sequence="4" value="141"/>
+                <element inactive_on_update="false" label="Facilities Operations" sequence="8" value="9484"/>
                 <element inactive_on_update="false" label="Asset Forfetuire" sequence="0" value="133"/>
                 <element inactive_on_update="false" label="Inmate Welfare" sequence="1" value="144"/>
-                <element inactive_on_update="false" label="Strategic Financial Plan" sequence="2" value="036"/>
-                <element inactive_on_update="false" label="Sheriff Coroner Construction and Fac Development" sequence="3" value="14Q"/>
-                <element inactive_on_update="false" label="Sheriffs Substation Fee Program" sequence="4" value="141"/>
                 <element inactive_on_update="false" label="Sheriff Narcotics Program" sequence="5" value="132"/>
-                <element inactive_on_update="false" label="Jail Commissary" sequence="6" value="143"/>
-                <element inactive_on_update="false" label="800 MHZ" sequence="7" value="15L"/>
-                <element inactive_on_update="false" label="Facilities Operations" sequence="8" value="9484"/>
             </choice>
         </element>
-        <element label="notes" max_length="40" name="notes" type="journal_input"/>
-        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
-        <element label="program" max_length="32" name="program_id" reference="x_1133497_projec_0_programs" type="reference"/>
         <element choice="1" label="project delivery methody" max_length="40" name="project_delivery_methody" type="choice">
             <choice>
-                <element inactive_on_update="false" label="JOC" sequence="0" value="JOC"/>
-                <element inactive_on_update="false" label="Design-Bid-Build" sequence="1" value="DBB"/>
-                <element inactive_on_update="false" label="Design-Build" sequence="2" value="DB"/>
                 <element inactive_on_update="false" label="CMAR" sequence="3" value="CMAR"/>
+                <element inactive_on_update="false" label="JOC" sequence="0" value="JOC"/>
                 <element inactive_on_update="false" label="PPP" sequence="4" value="PPP"/>
+                <element inactive_on_update="false" label="Design-Bid-Build" sequence="1" value="DBB"/>
                 <element inactive_on_update="false" label="Sole Source Purchase Order" sequence="5" value="SSPO"/>
+                <element inactive_on_update="false" label="Design-Build" sequence="2" value="DB"/>
             </choice>
         </element>
-        <element label="project manager" max_length="32" name="project_manager" reference="sys_user" type="reference"/>
         <element label="ranking" max_length="40" name="ranking" type="integer"/>
-        <element label="requester" max_length="32" name="requester" reference="sys_user" type="reference"/>
-        <element label="requisition numbers" max_length="40" name="requisition_numbers" type="string"/>
-        <element label="section" max_length="32" name="section_id" reference="x_1133497_projec_0_sections" type="reference"/>
-        <element label="site_contact" max_length="40" name="site_contact" type="string"/>
-        <element label="special inspector" max_length="40" name="special_inspector" type="string"/>
-        <element default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="sys_class_name" use_dynamic_default="true"/>
+        <element label="location details" max_length="40" name="address_other" type="string"/>
+        <element label="notes" max_length="40" name="notes" type="journal_input"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element display="true" label="work description" mandatory="true" max_length="40" name="work_description" type="wiki_text"/>
+        <element label="contractor" max_length="40" name="contractor" type="string"/>
+        <element label="special inspector" max_length="40" name="special_inspector" type="string"/>
+        <element label="AE Firm" max_length="40" name="ae_firm" type="string"/>
+        <element label="design_estimate" max_length="40" name="design_estimate" type="integer"/>
+        <element label="section" max_length="32" name="section_id" reference="x_1133497_projec_0_sections" type="reference"/>
+        <element default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="sys_class_name" use_dynamic_default="true"/>
+        <element label="funding expires on" max_length="40" name="funding_expires_on" type="glide_date"/>
+        <element label="CEQA Required?" max_length="40" name="ceqa_required" type="boolean"/>
+        <element label="approver" max_length="32" name="approver" reference="sys_user" type="reference"/>
+        <element label="program" max_length="32" name="program_id" reference="x_1133497_projec_0_programs" type="reference"/>
+        <element label="project manager" max_length="32" name="project_manager" reference="x_1133497_projec_0_users" reference_qual="is_project_manager=true" reference_qual_condition="is_project_manager=true" type="reference"/>
+        <element label="CM firm" max_length="40" name="cm" type="string"/>
+        <element label="requester" max_length="32" name="requester" reference="x_1133497_projec_0_users" reference_qual="is_requester=true" reference_qual_condition="is_requester=true" type="reference"/>
         <index name="index">
             <element name="approver"/>
         </index>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_data_mapping_definition">
+    <sn_ihub_data_mapping_definition action="INSERT_OR_UPDATE">
+        <integration_table>sys_data_source</integration_table>
+        <published_source_structure display_value="ih_import_FD3003e601295902101a757d9c0a4e9768">f003e601935902105e0b32edfaba1068</published_source_structure>
+        <record_id>d7c2e201935902105e0b32edfaba104f</record_id>
+        <source_structure display_value="ih_import_FD3003e601295902101a757d9c0a4e9768">f003e601935902105e0b32edfaba1068</source_structure>
+        <sys_class_name>sn_ihub_data_mapping_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-30 22:12:18</sys_created_on>
+        <sys_id>b803e601935902105e0b32edfaba1069</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="ProjectNow" source="x_1133497_projec_0">45393297932002105e0b32edfaba10d4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ProjectNow">45393297932002105e0b32edfaba10d4</sys_scope>
+        <sys_update_name>sn_ihub_data_mapping_definition_b803e601935902105e0b32edfaba1069</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-30 22:17:47</sys_updated_on>
+    </sn_ihub_data_mapping_definition>
+</record_update>

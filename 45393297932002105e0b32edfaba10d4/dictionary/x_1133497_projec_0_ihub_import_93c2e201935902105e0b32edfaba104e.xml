@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="5c1526c1935902105e0b32edfaba1081" extends="sys_import_set_row" label="users" max_length="40" name="x_1133497_projec_0_ihub_import_93c2e201935902105e0b32edfaba104e" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=is_pm" label="is_pm" max_length="40" name="u_is_pm" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=full_name" label="full_name" max_length="40" name="u_full_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=is_requester" label="is_requester" max_length="40" name="u_is_requester" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=inactive_on" label="inactive_on" max_length="40" name="u_inactive_on" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=short_name" label="short_name" max_length="40" name="u_short_name" type="string"/>
+    </element>
+</database>

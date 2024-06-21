@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_field">
+    <sys_rte_eb_etl_field action="INSERT_OR_UPDATE">
+        <coalesce>false</coalesce>
+        <coercion_action>create</coercion_action>
+        <field>u_short_name</field>
+        <name>short_name</name>
+        <sys_class_name>sys_rte_eb_etl_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-30 22:17:41</sys_created_on>
+        <sys_id>2734e281935902105e0b32edfaba100e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>short_name</sys_name>
+        <sys_package display_value="ProjectNow" source="x_1133497_projec_0">45393297932002105e0b32edfaba10d4</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="users_etl_ihub">23342e41935902105e0b32edfaba102f</sys_rte_eb_definition>
+        <sys_rte_eb_entity display_value="Source_x_1133497_projec_0_ihub_import_93c2e201935902105e0b32edfaba104e">ab342e41935902105e0b32edfaba1036</sys_rte_eb_entity>
+        <sys_scope display_value="ProjectNow">45393297932002105e0b32edfaba10d4</sys_scope>
+        <sys_update_name>sys_rte_eb_etl_field_2734e281935902105e0b32edfaba100e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-30 22:17:41</sys_updated_on>
+    </sys_rte_eb_etl_field>
+</record_update>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="bf57fe1c932202105e0b32edfaba101a" label="requesters" max_length="40" name="x_1133497_projec_0_requesters" type="collection">
+        <element label="user_id" max_length="32" name="user_id" reference="x_1133497_projec_0_users" type="reference"/>
+        <index name="index">
+            <element name="user_id"/>
+        </index>
+    </element>
+</database>

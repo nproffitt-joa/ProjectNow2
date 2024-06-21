@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="6293e241935902105e0b32edfaba1056" label="users" max_length="40" name="x_1133497_projec_0_users" type="collection">
+        <element label="inactive on" max_length="40" name="inactive_on" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="full_name" max_length="40" name="full_name" type="string"/>
+        <element label="is requester" max_length="40" name="is_requester" type="boolean"/>
+        <element label="email" max_length="40" name="email" type="string"/>
+        <element label="is project manager" max_length="40" name="is_project_manager" type="boolean"/>
+        <element display="true" label="short name" mandatory="true" max_length="40" name="short_name" type="string"/>
+    </element>
+</database>
